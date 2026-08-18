@@ -7,7 +7,7 @@ Chicago small business, previously for enterprise accounts at OpenText.
 MS in Management, Data Analytics Specialization (STEM) — Indiana Wesleyan
 University. BS Computer Science — SRM University.
 
-📍 Chicago, IL (open to relocation) · 🌐 [Portfolio](https://poornavenkatn08.vercel.app) · 📊 [Tableau Public](https://public.tableau.com/app/profile/poorna.venkat.neelakantam/vizzes) · 💼 [LinkedIn](https://www.linkedin.com/in/pneelakantam/) · ✉️ pvneelakantam@gmail.com
+📍 Chicago, IL (open to relocation) · 🌐 [Portfolio](https://poornavenkatn08.vercel.app) · 📊 [Tableau Public](https://public.tableau.com/app/profile/poorna.venkat.neelakantam/vizzes) · 💼 [LinkedIn](https://www.linkedin.com/in/pneelakantam/) · ✉️ poornavn08@gmail.com
 
 ---
 
