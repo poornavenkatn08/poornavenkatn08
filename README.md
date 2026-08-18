@@ -1,13 +1,13 @@
 # Poorna Venkat Neelakantam
 
 Data analyst in Chicago. I turn business questions into SQL analysis, dbt
-pipelines, and dashboards people actually use  currently doing that for a
+pipelines, and dashboards people actually use — currently doing that for a
 Chicago small business, previously for enterprise accounts at OpenText.
 
 MS in Management, Data Analytics Specialization (STEM) — Indiana Wesleyan
 University. BS Computer Science — SRM University.
 
-📍 Chicago, IL (open to relocation) · 🌐 [Portfolio](https://poornavenkatn08.vercel.app) · 📊 [Tableau Public](https://public.tableau.com/app/profile/poorna.venkat.neelakantam/vizzes) · 💼 [LinkedIn](https://www.linkedin.com/in/pneelakantam/) · ✉️ poornavn08@gmail.com
+📍 Chicago, IL (open to relocation) · 🌐 [Portfolio](https://poornavenkatn08.vercel.app) · 📊 [Tableau Public](https://public.tableau.com/app/profile/poorna.venkat.neelakantam/vizzes) · 💼 [LinkedIn](https://www.linkedin.com/in/pneelakantam/) · ✉️ pvneelakantam@gmail.com
 
 ---
 
@@ -21,20 +21,20 @@ surfaced 2% profit leakage between inventory received and consumed, and a Python
 A/B test that resized rush-hour staffing.
 
 **Before that — OpenText**, where I automated tenant data retention in Oracle
-PL/SQL ($250K annual cost avoidance), cut query runtime 35% across four
-enterprise accounts, and built a Python classifier over 10,000+ daily Kafka
-messages.
+PL/SQL (credited with $250K in annual cost avoidance), cut query runtime 35%
+across four enterprise accounts, and built a Python classifier over 10,000+
+daily Kafka messages.
 
 ---
 
 ## Start here
 
-**[Credit Risk Analytics](https://github.com/poornavenkatn08/Credit_Risk_Analytics)** — dbt · BigQuery · Tableau
+**[Credit Risk Analytics Engineering](https://github.com/poornavenkatn08/Credit_Risk_Analytics)** — dbt · BigQuery · Tableau
 
 307K loan applications and 13.6M payment records modeled into a tested
 fact-constellation warehouse: three fact tables at three grains sharing a
 conformed dimension, ~25 automated data-quality tests on every build, and a
-published dashboard. The README documents the modeling decisions  including why
+published dashboard. The README documents the modeling decisions — including why
 this dataset makes a date dimension impossible. Closest thing here to how I'd
 work on a real analytics engineering team.
 
@@ -81,4 +81,4 @@ Employment results are separate and are described in my resume and on LinkedIn.
 ---
 
 Open to Data Analyst, Business Intelligence, and Analytics Engineering roles.
-[LinkedIn](https://www.linkedin.com/in/pneelakantam/) · poornavn08@gmail.com
+[LinkedIn](https://www.linkedin.com/in/pneelakantam/) · pvneelakantam@gmail.com
