@@ -13,7 +13,7 @@ University. BS Computer Science — SRM University.
 
 ## Now
 
-**Strategy & Operations Analyst — Chicago's Doghouse Network**
+**Data Operations Analyst — Chicago's Doghouse Network**
 Building SQL ETL that consolidates Square POS, payroll, and labor data into an
 analysis-ready model; Tableau dashboards giving ownership a day-to-date view of
 sales, staffing, and payroll. Recent work: a SQL reconciliation model that
